@@ -1,0 +1,37 @@
+{
+  "name": "spoken-script-to-ppt",
+  "version": "0.1.0",
+  "description": "Turn written Chinese spoken scripts into sparse, visual-first presentation workflows.",
+  "author": {
+    "name": "Aiysae",
+    "url": "https://github.com/Aiysae"
+  },
+  "homepage": "https://github.com/Aiysae/spoken-script-to-ppt",
+  "repository": "https://github.com/Aiysae/spoken-script-to-ppt",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "presentation",
+    "pptx",
+    "spoken-script",
+    "visual-storytelling",
+    "chinese"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "口播稿视觉 PPT",
+    "shortDescription": "把中文口播稿提炼成少字、多图、强画面的视觉叙事型演示文稿",
+    "longDescription": "先拆解已经写好的中文口播稿，再筛选必须上屏的信息，为每页选择真实照片、编辑插画、图表、图解或统一图标，并生成与口播顺序同步的页面蓝图和 PPTX。",
+    "developerName": "Aiysae",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "websiteURL": "https://github.com/Aiysae/spoken-script-to-ppt",
+    "defaultPrompt": [
+      "把这篇中文口播稿拆解成内容筛选表和页面蓝图。",
+      "根据这篇口播稿生成一份少字多图、漫画插画风的 16:9 PPT。",
+      "检查这份口播稿 PPT，并修复文字过多和视觉不匹配的问题。"
+    ]
+  }
+}

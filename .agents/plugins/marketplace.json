@@ -1,0 +1,20 @@
+{
+  "name": "spoken-script-to-ppt",
+  "interface": {
+    "displayName": "口播稿视觉 PPT"
+  },
+  "plugins": [
+    {
+      "name": "spoken-script-to-ppt",
+      "source": {
+        "source": "local",
+        "path": "./plugins/spoken-script-to-ppt"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
