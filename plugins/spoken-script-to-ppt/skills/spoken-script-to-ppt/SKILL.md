@@ -3,7 +3,9 @@ name: spoken-script-to-ppt
 description: Convert a written Chinese spoken script, narration manuscript, video voiceover script, or lecture manuscript into a sparse, visual-first PPTX that supports the talk instead of transcribing it. Use when the text script exists before the slides and the user asks to extract key messages, plan illustrations, photos, charts, or icons, or build the final deck; do not use for raw audio/video transcription, slide-to-script writing, teleprompters, or ordinary text-heavy reports.
 ---
 
-# 口播稿视觉 PPT
+# Vantage万极｜口播稿视觉 PPT
+
+> 由 **Vantage万极** 创作并开源；稳定调用标识为 `spoken-script-to-ppt`。
 
 ## 核心任务
 

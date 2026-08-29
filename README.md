@@ -1,4 +1,6 @@
-# spoken-script-to-ppt
+# Vantage万极｜口播稿视觉 PPT
+
+> `spoken-script-to-ppt` — 由 **Vantage万极** 创作并维护的开源 Codex Skill，GitHub 发布账号为 [@Aiysae](https://github.com/Aiysae)。
 
 把“先有口播稿，再做 PPT”变成一套稳定、可复用的视觉化工作流。
 
@@ -74,7 +76,7 @@ flowchart LR
 codex plugin marketplace add Aiysae/spoken-script-to-ppt
 ```
 
-随后重启 ChatGPT 桌面应用，打开 Plugins Directory，选择“口播稿视觉 PPT”来源并安装 `spoken-script-to-ppt`。
+随后重启 ChatGPT 桌面应用，打开 Plugins Directory，选择“Vantage万极开源 Skills”来源，并安装“Vantage万极｜口播稿视觉 PPT”（内部标识为 `spoken-script-to-ppt`）。
 
 这是 GitHub 自定义 marketplace，不是 OpenAI 官方 Plugins Directory。
 
@@ -198,10 +200,18 @@ GitHub 公共仓库意味着源码可以被搜索、访问、fork、clone 和安
 
 欢迎通过 Issue 或 Pull Request 提交真实场景下的失败案例、内容筛选改进、视觉路由规则和其他语言适配。具体要求见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
+## 作者与署名
+
+- 创作者与维护者：**Vantage万极**
+- GitHub 发布账号：[@Aiysae](https://github.com/Aiysae)
+- 稳定机器标识：`spoken-script-to-ppt`
+
+为了兼容已有安装链接和 `$spoken-script-to-ppt` 调用方式，仓库名、插件名和 Skill 的机器标识不加入作者前缀；面向用户的显示名、作者元数据和许可证负责标明归属。
+
 ## License
 
 本项目采用 [MIT License](LICENSE)。Skill 说明文件受 MIT 许可；实际使用中取得或生成的照片、图标、字体、Logo、数据和其他第三方素材仍受各自来源与授权条款约束。
 
 ## English
 
-`spoken-script-to-ppt` is a community Codex Skill for turning an existing Chinese spoken script into a sparse, visual-first presentation workflow. It distills key messages, keeps explanations in narration, routes each slide to an appropriate visual form, writes script cues into speaker notes, and validates the final deck through rendering and visual QA.
+`spoken-script-to-ppt` is an open-source Codex Skill created and maintained by **Vantage万极** (GitHub: [@Aiysae](https://github.com/Aiysae)). It turns an existing Chinese spoken script into a sparse, visual-first presentation workflow, routes each slide to an appropriate visual form, writes script cues into speaker notes, and validates the final deck through rendering and visual QA.

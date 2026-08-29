@@ -1,9 +1,9 @@
 {
   "name": "spoken-script-to-ppt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Turn written Chinese spoken scripts into sparse, visual-first presentation workflows.",
   "author": {
-    "name": "Aiysae",
+    "name": "Vantage万极",
     "url": "https://github.com/Aiysae"
   },
   "homepage": "https://github.com/Aiysae/spoken-script-to-ppt",
@@ -15,14 +15,15 @@
     "pptx",
     "spoken-script",
     "visual-storytelling",
-    "chinese"
+    "chinese",
+    "vantage"
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "口播稿视觉 PPT",
+    "displayName": "Vantage万极｜口播稿视觉 PPT",
     "shortDescription": "把中文口播稿提炼成少字、多图、强画面的视觉叙事型演示文稿",
     "longDescription": "先拆解已经写好的中文口播稿，再筛选必须上屏的信息，为每页选择真实照片、编辑插画、图表、图解或统一图标，并生成与口播顺序同步的页面蓝图和 PPTX。",
-    "developerName": "Aiysae",
+    "developerName": "Vantage万极",
     "category": "Productivity",
     "capabilities": [
       "Write"

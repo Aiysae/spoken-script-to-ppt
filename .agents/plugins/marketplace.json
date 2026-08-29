@@ -1,7 +1,7 @@
 {
   "name": "spoken-script-to-ppt",
   "interface": {
-    "displayName": "口播稿视觉 PPT"
+    "displayName": "Vantage万极开源 Skills"
   },
   "plugins": [
     {
